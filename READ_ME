@@ -22,3 +22,5 @@
     # this script produces pipeline stage pie charts per METHOD tag (overall, prevention, detection, mitigation)
     # it re-defines some of the previously used variables, so keeping it separate is easier
     # that script can also be run independantly
+
+# if all worked, there should be 4 pngs saved
