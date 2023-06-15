@@ -1,13 +1,14 @@
 # lit_review_final
-### INSTRUCTIONS -------------------------------------------------------------
-# export the following collections from zotero: 
-  # full text review - COVIDENCE as "fairness_review_zotero_YYYY-MM-DD.csv"
-  # Snowball as "fairness_review_zotero_snowball_YYYY-MM-DD.csv"
-# place them in the same directory as this script
-# for the METHOD PANEL section to work: also place the following script in the same directory
-  # "data_review_panels_METHOD.R"
 
-### TABLE OF CONTENTS
+# INSTRUCTIONS
+  ### export the following collections from zotero: 
+    full text review - COVIDENCE as "fairness_review_zotero_YYYY-MM-DD.csv"
+    Snowball as "fairness_review_zotero_snowball_YYYY-MM-DD.csv"
+  ### place them in the same directory as this script
+  ### for the METHOD PANEL section to work: also place the following script in the same directory
+  "data_review_panels_METHOD.R"
+
+# TABLE OF CONTENTS
   ## OVERALL PIE CHARTS (FOR ALL TAG CATEGORIES)
     # will produce pie graphs of all tags, sorted by category and save it as a png
   #
